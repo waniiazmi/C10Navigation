@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.c10navigation.com" resolutions="1x" timestamp="1495510309063">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.c10navigation.com" resolutions="1x" timestamp="1495515521133">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="4014956893" ref="index"/>
@@ -8,7 +8,7 @@
     <file name="gotham rounded light.eot" crc="44303794"/>
   </folder>
   <folder name="assets">
-    <file name="logo-01.png" crc="4123792512" seo="true" mt="1495361150000"/>
+    <file name="logo-01.png" crc="358944302" seo="true" mt="1495505299000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>home:phone>1st:phone>most:phone>dewan-kuliah:phone>bt1:phone>rpbk:phone>bp:phone>toilet:phone>legend:phone>3rd:phone>2nd:index"/>
@@ -19,19 +19,19 @@
     <file name="require.js" crc="4234670167" ref="phone>index:phone>home:phone>1st:phone>most:phone>dewan-kuliah:phone>bt1:phone>rpbk:phone>bp:phone>toilet:phone>legend:phone>3rd:phone>2nd:index"/>
   </folder>
   <folder name="images">
-    <file name="logo-01.png" crc="358944302" seo="true" ref="phone>index:phone>home:phone>1st:phone>most:phone>dewan-kuliah:phone>bt1:phone>rpbk:phone>bp:phone>toilet:phone>legend:phone>3rd:phone>2nd">
-      <caption webpage="bt1" alt=""/>
+    <file name="logo-01.png" crc="358944302" seo="true" ref="phone>home:phone>1st:phone>most:phone>dewan-kuliah:phone>bt1:phone>rpbk:phone>bp:phone>toilet:phone>legend:phone>3rd:phone>2nd">
       <caption webpage="rpbk" alt=""/>
-      <caption webpage="bp" alt=""/>
-      <caption webpage="most" alt=""/>
-      <caption webpage="3rd" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="legend" alt=""/>
-      <caption webpage="dewan-kuliah" alt=""/>
-      <caption webpage="toilet" alt=""/>
-      <caption webpage="1st" alt=""/>
-      <caption webpage="2nd" alt=""/>
       <caption webpage="home" alt=""/>
+      <caption webpage="legend" alt=""/>
+      <caption webpage="toilet" alt=""/>
+      <caption webpage="3rd" alt=""/>
+      <caption webpage="2nd" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bp" alt=""/>
+      <caption webpage="1st" alt=""/>
+      <caption webpage="most" alt=""/>
+      <caption webpage="bt1" alt=""/>
+      <caption webpage="dewan-kuliah" alt=""/>
     </file>
     <file name="logo-02.png" crc="352265586" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
@@ -113,32 +113,32 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="454355329" ref="phone>legend:phone>bt1:phone>home:phone>3rd:phone>rpbk:phone>1st:phone>2nd:phone>bp:phone>most:phone>dewan-kuliah:phone>toilet:phone>index"/>
+      <file name="master_a-master.css" crc="386863639" ref="phone>legend:phone>bt1:phone>home:phone>3rd:phone>rpbk:phone>1st:phone>2nd:phone>bp:phone>most:phone>dewan-kuliah:phone>toilet"/>
       <file name="legend.css" crc="4146688240" ref="phone>legend"/>
       <file name="bt1.css" crc="173924073" ref="phone>bt1"/>
-      <file name="home.css" crc="3836865949" ref="phone>home"/>
+      <file name="home.css" crc="4101963003" ref="phone>home"/>
       <file name="3rd.css" crc="388107953" ref="phone>3rd"/>
       <file name="rpbk.css" crc="3837962252" ref="phone>rpbk"/>
       <file name="1st.css" crc="314763028" ref="phone>1st"/>
       <file name="2nd.css" crc="529005472" ref="phone>2nd"/>
       <file name="bp.css" crc="280220361" ref="phone>bp"/>
-      <file name="most.css" crc="3970533770" ref="phone>most"/>
+      <file name="most.css" crc="3942377189" ref="phone>most"/>
       <file name="dewan-kuliah.css" crc="209305046" ref="phone>dewan-kuliah"/>
       <file name="toilet.css" crc="189316174" ref="phone>toilet"/>
-      <file name="index.css" crc="101889762" ref="phone>index"/>
+      <file name="index.css" crc="437023201" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="461722521" seo="true" mt="1495510279227" redirect="true"/>
-    <file name="home.html" crc="523542331" seo="true" mt="1495510279227" redirect="true"/>
-    <file name="1st.html" crc="520298865" seo="true" mt="1495510279227" redirect="true"/>
-    <file name="most.html" crc="421867825" seo="true" mt="1495510279227" redirect="true"/>
-    <file name="dewan-kuliah.html" crc="526911113" seo="true" mt="1495510279227" redirect="true"/>
-    <file name="bt1.html" crc="502826162" seo="true" mt="1495510279227" redirect="true"/>
-    <file name="rpbk.html" crc="129851423" seo="true" mt="1495510279227" redirect="true"/>
-    <file name="bp.html" crc="4206292182" seo="true" mt="1495510279227" redirect="true"/>
-    <file name="toilet.html" crc="66294582" seo="true" mt="1495510279227" redirect="true"/>
-    <file name="legend.html" crc="305924220" seo="true" mt="1495510279227" redirect="true"/>
-    <file name="3rd.html" crc="3940059557" seo="true" mt="1495510279227" redirect="true"/>
-    <file name="2nd.html" crc="4102504254" seo="true" mt="1495510279227" redirect="true"/>
+    <file name="index.html" crc="4113572298" seo="true" mt="1495514539995" redirect="true"/>
+    <file name="home.html" crc="526083770" seo="true" mt="1495515512171" redirect="true"/>
+    <file name="1st.html" crc="371163471" seo="true" mt="1495515512171" redirect="true"/>
+    <file name="most.html" crc="234922175" seo="true" mt="1495515512171" redirect="true"/>
+    <file name="dewan-kuliah.html" crc="136282851" seo="true" mt="1495515512171" redirect="true"/>
+    <file name="bt1.html" crc="4197074691" seo="true" mt="1495515512171" redirect="true"/>
+    <file name="rpbk.html" crc="200179105" seo="true" mt="1495515512171" redirect="true"/>
+    <file name="bp.html" crc="67828566" seo="true" mt="1495515512171" redirect="true"/>
+    <file name="toilet.html" crc="3879816204" seo="true" mt="1495515512171" redirect="true"/>
+    <file name="legend.html" crc="3933743488" seo="true" mt="1495515512171" redirect="true"/>
+    <file name="3rd.html" crc="4231231447" seo="true" mt="1495515512171" redirect="true"/>
+    <file name="2nd.html" crc="4271154188" seo="true" mt="1495515512171" redirect="true"/>
   </folder>
   <file name="index.html" crc="4180637366" seo="true" mt="1495505378736" redirect="true"/>
 </manifest>
