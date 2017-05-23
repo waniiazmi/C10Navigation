@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.c10navigation.com" resolutions="1x" timestamp="1495505414180">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.c10navigation.com" resolutions="1x" timestamp="1495510309063">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="4014956893" ref="index"/>
@@ -35,7 +35,6 @@
     </file>
     <file name="logo-02.png" crc="352265586" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="star.png" crc="4006649527" seo="true" ref="phone>home:phone>most">
       <caption webpage="most" alt=""/>
@@ -49,27 +48,14 @@
     <file name="1st-crop-u3430.png" crc="479158153" seo="true" ref="phone>1st">
       <caption webpage="1st" alt=""/>
     </file>
-    <file name="dk.png" crc="4192988313" seo="true" ref="phone>dewan-kuliah">
+    <file name="dk.png" crc="4243483492" seo="true" ref="phone>dewan-kuliah">
       <caption webpage="dewan-kuliah" alt=""/>
     </file>
-    <file name="placeholder2.png" crc="3930074704" seo="true" ref="phone>dewan-kuliah:phone>bt1:phone>rpbk:phone>toilet">
-      <caption webpage="bt1" alt=""/>
-      <caption webpage="bt1" alt=""/>
-      <caption webpage="rpbk" alt=""/>
-      <caption webpage="toilet" alt=""/>
-      <caption webpage="toilet" alt=""/>
-      <caption webpage="toilet" alt=""/>
-      <caption webpage="toilet" alt=""/>
-      <caption webpage="toilet" alt=""/>
-      <caption webpage="toilet" alt=""/>
-      <caption webpage="dewan-kuliah" alt=""/>
-      <caption webpage="dewan-kuliah" alt=""/>
-    </file>
-    <file name="2nd.png" crc="4025351663" seo="true" ref="phone>bt1:phone>2nd">
+    <file name="2nd.png" crc="4025351663" seo="true" ref="phone>2nd">
       <caption webpage="bt1" alt=""/>
       <caption webpage="2nd" alt=""/>
     </file>
-    <file name="rpbk.png" crc="165830233" seo="true" ref="phone>rpbk">
+    <file name="rpbk.png" crc="3780150363" seo="true" ref="phone>rpbk">
       <caption webpage="rpbk" alt=""/>
     </file>
     <file name="ming-crop-u1942.png" crc="290242795" seo="true" ref="phone>bp">
@@ -96,20 +82,17 @@
       <caption webpage="toilet" alt=""/>
       <caption webpage="legend" alt=""/>
     </file>
-    <file name="toilet - 1st-crop-u2149.png" crc="4090805708" seo="true" ref="phone>toilet">
+    <file name="toilet - 1st-crop-u2149.png" crc="3840938637" seo="true" ref="phone>toilet">
       <caption webpage="toilet" alt=""/>
     </file>
     <file name="second floor.png" crc="4237346569" seo="true" ref="phone>toilet:phone>legend">
       <caption webpage="toilet" alt=""/>
       <caption webpage="legend" alt=""/>
     </file>
-    <file name="toilet - 2nd-crop-u2166.png" crc="380402419" seo="true" ref="phone>toilet">
+    <file name="toilet - 2nd-crop-u2166.png" crc="4088702385" seo="true" ref="phone>toilet">
       <caption webpage="toilet" alt=""/>
     </file>
     <file name="3rd floor.png" crc="4129050235" seo="true" ref="phone>toilet">
-      <caption webpage="toilet" alt=""/>
-    </file>
-    <file name="3rd-crop-u2180.png" crc="45339718" seo="true" ref="phone>toilet">
       <caption webpage="toilet" alt=""/>
     </file>
     <file name="legend 1.png" crc="3803002562" seo="true" ref="phone>legend">
@@ -118,38 +101,44 @@
     <file name="logo-02-crop-u2808.png" crc="4006192267" seo="true" ref="phone>legend">
       <caption webpage="legend" alt=""/>
     </file>
-    <file name="3rd-crop-u2576.png" crc="3848545830" seo="true" ref="phone>3rd">
+    <file name="3rd-crop-u2576.png" crc="4292720680" seo="true" ref="phone>3rd">
       <caption webpage="3rd" alt=""/>
+    </file>
+    <file name="bt.png" crc="4051528535" seo="true" ref="phone>bt1">
+      <caption webpage="bt1" alt=""/>
+    </file>
+    <file name="toilet - 3rd-crop-u2180.png" crc="4086770475" seo="true" ref="phone>toilet">
+      <caption webpage="toilet" alt=""/>
     </file>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="454355329" ref="phone>legend:phone>bt1:phone>home:phone>3rd:phone>rpbk:phone>1st:phone>2nd:phone>bp:phone>most:phone>dewan-kuliah:phone>toilet:phone>index"/>
       <file name="legend.css" crc="4146688240" ref="phone>legend"/>
-      <file name="bt1.css" crc="208270129" ref="phone>bt1"/>
+      <file name="bt1.css" crc="173924073" ref="phone>bt1"/>
       <file name="home.css" crc="3836865949" ref="phone>home"/>
       <file name="3rd.css" crc="388107953" ref="phone>3rd"/>
-      <file name="rpbk.css" crc="11827832" ref="phone>rpbk"/>
+      <file name="rpbk.css" crc="3837962252" ref="phone>rpbk"/>
       <file name="1st.css" crc="314763028" ref="phone>1st"/>
       <file name="2nd.css" crc="529005472" ref="phone>2nd"/>
       <file name="bp.css" crc="280220361" ref="phone>bp"/>
       <file name="most.css" crc="3970533770" ref="phone>most"/>
-      <file name="dewan-kuliah.css" crc="3924205756" ref="phone>dewan-kuliah"/>
-      <file name="toilet.css" crc="4274720698" ref="phone>toilet"/>
+      <file name="dewan-kuliah.css" crc="209305046" ref="phone>dewan-kuliah"/>
+      <file name="toilet.css" crc="189316174" ref="phone>toilet"/>
       <file name="index.css" crc="101889762" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3927640954" seo="true" mt="1495505402881" redirect="true"/>
-    <file name="home.html" crc="4209455278" seo="true" mt="1495505402881" redirect="true"/>
-    <file name="1st.html" crc="262318733" seo="true" mt="1495505402881" redirect="true"/>
-    <file name="most.html" crc="3787801913" seo="true" mt="1495505402881" redirect="true"/>
-    <file name="dewan-kuliah.html" crc="4242610573" seo="true" mt="1495505402881" redirect="true"/>
-    <file name="bt1.html" crc="4281996307" seo="true" mt="1495505402881" redirect="true"/>
-    <file name="rpbk.html" crc="333875216" seo="true" mt="1495505402881" redirect="true"/>
-    <file name="bp.html" crc="304485822" seo="true" mt="1495505402881" redirect="true"/>
-    <file name="toilet.html" crc="3888948266" seo="true" mt="1495505402881" redirect="true"/>
-    <file name="legend.html" crc="410276139" seo="true" mt="1495505402881" redirect="true"/>
-    <file name="3rd.html" crc="35904651" seo="true" mt="1495505402881" redirect="true"/>
-    <file name="2nd.html" crc="236608069" seo="true" mt="1495505402881" redirect="true"/>
+    <file name="index.html" crc="461722521" seo="true" mt="1495510279227" redirect="true"/>
+    <file name="home.html" crc="523542331" seo="true" mt="1495510279227" redirect="true"/>
+    <file name="1st.html" crc="520298865" seo="true" mt="1495510279227" redirect="true"/>
+    <file name="most.html" crc="421867825" seo="true" mt="1495510279227" redirect="true"/>
+    <file name="dewan-kuliah.html" crc="526911113" seo="true" mt="1495510279227" redirect="true"/>
+    <file name="bt1.html" crc="502826162" seo="true" mt="1495510279227" redirect="true"/>
+    <file name="rpbk.html" crc="129851423" seo="true" mt="1495510279227" redirect="true"/>
+    <file name="bp.html" crc="4206292182" seo="true" mt="1495510279227" redirect="true"/>
+    <file name="toilet.html" crc="66294582" seo="true" mt="1495510279227" redirect="true"/>
+    <file name="legend.html" crc="305924220" seo="true" mt="1495510279227" redirect="true"/>
+    <file name="3rd.html" crc="3940059557" seo="true" mt="1495510279227" redirect="true"/>
+    <file name="2nd.html" crc="4102504254" seo="true" mt="1495510279227" redirect="true"/>
   </folder>
   <file name="index.html" crc="4180637366" seo="true" mt="1495505378736" redirect="true"/>
 </manifest>
